@@ -1,5 +1,5 @@
 ### Environment
-- [ ] Demo
+- [x] Demo
 - [ ] Operational
 
 ### Time and date (UTC)
