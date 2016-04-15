@@ -2,7 +2,7 @@
 
 Found a bug in 4ME ? Here's the place to report it !
 
-If you have a github account, just file a new issue in this repo.
+If you have a github account, just [file a new issue](https://github.com/devteamreims/4ME/issues/new) in this repo.
 
 ## Anonymous users
 
