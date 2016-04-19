@@ -1,6 +1,7 @@
 ### Environment
-- [ ] Demo
-- [ ] Operational
+<!--- Please remove unaffected environment --->
+- Demo
+- Operational
 
 ### Time and date (UTC)
 
